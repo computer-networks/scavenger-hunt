@@ -1,0 +1,4 @@
+A packet traverses 4 autonomous systems to go from UNIX5.andrew.cmu.edu to edge-star-mini-shv-01-iad3.facebook.com. List these autonomous systems in order with commas between them to reveal the next clue.
+
+e.g.:
+9,1234,5678,9410

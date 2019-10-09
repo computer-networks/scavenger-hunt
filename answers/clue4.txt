@@ -1,0 +1,3 @@
+When you send a packet leaving UNIX5.andrew.cmu.edu to the Internet at large, what is the destination MAC address you place on the packet?
+
+Another way of asking this is, what is the MAC address of the router/gateway you will send your packets through?
